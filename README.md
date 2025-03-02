@@ -16,13 +16,9 @@ Shows a report of all available seats.
 How to Run
 Compile the Program:
 
-bash
-Copy code
 g++ AirlinesReservation.cpp -o AirlinesReservation
 Run the Program:
 
-bash
-Copy code
 ./AirlinesReservation
 Prepare Flight Schedule File: Ensure a file named Flight_data.txt is in the same directory as the executable. The file should contain the flight schedule details.
 
@@ -38,9 +34,6 @@ Follow the prompts to provide passenger details and make reservations.
 
 After completing a reservation, you can view passenger details, reserved seats, and total billing.
 
-Example Menu
-markdown
-Copy code
 ******************** AIRLINE RESERVATION SYSTEM *********************
 Options:
 1. Flight Schedule
